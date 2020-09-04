@@ -31,7 +31,7 @@
   },
   {
     "password": "koty",
-    "pictureURL": "./data/imagesNames/Koty.jpg",
+    "pictureURL": "./data/imagesNames/Koty.JPG",
     "text": "Inspektor Kot, inspektor Pierzchała, wydział wewnętrzny"
   },
   {
@@ -48,5 +48,10 @@
     "password": "janusz",
     "pictureURL": "./data/imagesNames/Janusz.jpg",
     "text": "Biorę maczetę i idę na robotę"
+  },
+  {
+    "password": "monika",
+    "pictureURL": "https://i.ytimg.com/vi/zdf7V1GxnWg/maxresdefault.jpg",
+    "text": "W związkach homo rodzi się więcej dzieci"
   }
 ]
